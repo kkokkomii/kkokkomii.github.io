@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-01T23:26:49+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Site Title</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">Image</title><link href="http://localhost:4000/image/" rel="alternate" type="text/html" title="Image" /><published>2024-05-01T00:00:00+09:00</published><updated>2024-05-01T00:00:00+09:00</updated><id>http://localhost:4000/image</id><content type="html" xml:base="http://localhost:4000/image/"><![CDATA[<p>layout : single</p>
+
+<p>title : “이미지 넣는 연습해요”</p>
+
+<p>잘 들어갔나요~?</p>
+
+<p>확인이 필요해요</p>
+
+<p><img src="../images/2024-05-01-image/스크린샷 2024-05-01 오후 7.16.16.png" alt="sky" /></p>]]></content><author><name>Your Name</name></author><summary type="html"><![CDATA[layout : single]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/test2/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-04-18T00:00:00+09:00</published><updated>2024-04-18T00:00:00+09:00</updated><id>http://localhost:4000/test2</id><content type="html" xml:base="http://localhost:4000/test2/"><![CDATA[<h1 id="welcome">Welcome</h1>
+
+<p><strong>Hello world</strong>, this is my first Jekyll blog post.</p>
+
+<p>post와 single의 차이는 무엇일까요</p>
+
+<p><img src="../images/2024-04-18-test2/스크린샷 2024-05-01 오후 7.16.16.png" alt="스크린샷 2024-05-01 오후 7.16.16" /></p>]]></content><author><name>Your Name</name></author><summary type="html"><![CDATA[Welcome]]></summary></entry></feed>
