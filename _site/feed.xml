@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-05T01:59:45+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">kkokkomii’s Code Quest</title><subtitle>코딩 퀘스트를 완료해나가는 과정을 정리한 블로그입니다.</subtitle><author><name>kkokkomii&apos;s Code Quest</name></author><entry><title type="html">Image</title><link href="http://localhost:4000/image/" rel="alternate" type="text/html" title="Image" /><published>2024-05-01T00:00:00+09:00</published><updated>2024-05-01T00:00:00+09:00</updated><id>http://localhost:4000/image</id><content type="html" xml:base="http://localhost:4000/image/"><![CDATA[<p>layout : single</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-06T20:50:30+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">kkokkomii’s Code Quest</title><subtitle>코딩 퀘스트를 완료해나가는 과정을 정리한 블로그입니다.</subtitle><author><name>kkokkomii&apos;s Code Quest</name></author><entry><title type="html">이미지 넣는 연습해요</title><link href="http://localhost:4000/coding/image/" rel="alternate" type="text/html" title="이미지 넣는 연습해요" /><published>2024-05-01T00:00:00+09:00</published><updated>2024-05-01T00:00:00+09:00</updated><id>http://localhost:4000/coding/image</id><content type="html" xml:base="http://localhost:4000/coding/image/"><![CDATA[<h1 id="와우">와우~</h1>
 
-<p>title : “이미지 넣는 연습해요”</p>
+<h2 id="잘-들어갔나요">잘 들어갔나요~?</h2>
 
-<p>잘 들어갔나요~?</p>
+<h2 id="확인이-필요해요">확인이 필요해요</h2>
 
-<p>확인이 필요해요</p>
-
+<h3 id="우히히-신기하네요">우히히 신기하네요</h3>
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
 <span class="k">class</span> <span class="nc">MenuClass</span><span class="p">:</span>
     <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="n">self</span><span class="p">):</span>
@@ -15,8 +14,9 @@
        <span class="n">self</span><span class="p">.</span><span class="n">total</span> <span class="o">=</span> <span class="mi">0</span>
 
 </code></pre></div></div>
+<h1 id="젤-높은-수준의-목차에요">젤 높은 수준의 목차에요</h1>
 
-<p><img src="../images/2024-05-01-image/스크린샷 2024-05-01 오후 7.16.16.png" alt="sky" /></p>]]></content><author><name>kkokkomii&apos;s Code Quest</name></author><summary type="html"><![CDATA[layout : single]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/test2/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-04-18T00:00:00+09:00</published><updated>2024-04-18T00:00:00+09:00</updated><id>http://localhost:4000/test2</id><content type="html" xml:base="http://localhost:4000/test2/"><![CDATA[<h1 id="welcome">Welcome</h1>
+<p><img src="../images/2024-05-01-image/스크린샷 2024-05-01 오후 7.16.16.png" alt="sky" /></p>]]></content><author><name>kkokkomii&apos;s Code Quest</name></author><category term="coding" /><category term="python" /><category term="vscode" /><category term="jekyll" /><summary type="html"><![CDATA[와우~]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/test2/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-04-18T00:00:00+09:00</published><updated>2024-04-18T00:00:00+09:00</updated><id>http://localhost:4000/test2</id><content type="html" xml:base="http://localhost:4000/test2/"><![CDATA[<h1 id="welcome">Welcome</h1>
 
 <p><strong>Hello world</strong>, this is my first Jekyll blog post.</p>
 
